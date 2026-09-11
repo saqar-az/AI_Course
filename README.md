@@ -23,8 +23,8 @@ implement an algorithm that processes an array of numbers, where each number rep
 
 Implement four fundamental image processing operations using OpenCV and provide an interactive menu for the user to apply them to an input image:
 
-1. **Thresholding** – Binary and Adaptive Mean thresholding.
-2. **Mean Filter** – 5×5 blurring.
-3. **Geometric Transformation** – Rotation and scaling.
-4. **Noise Addition** – Salt-and-pepper noise (10% salt, 20% pepper).
+1. **Thresholding**: Binary and Adaptive Mean thresholding.
+2. **Mean Filter**: 5×5 blurring.
+3. **Geometric Transformation**: Rotation and scaling.
+4. **Noise Addition**: Salt and pepper noise (10% salt, 20% pepper).
 ---
